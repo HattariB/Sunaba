@@ -1,0 +1,9 @@
+body {
+	background-image:url("../img/niigata-ken.png");
+}
+
+.oiraepos {
+	position: absolute;
+	top: 18%;
+	left: 30%;
+}
